@@ -1,4 +1,4 @@
-# opt_sim
+# opt_sim (project completed in 2016, but uploaded recently)
 Transfer matrix simulation of 1D optical multilayers.
 
 ### Dependecies
