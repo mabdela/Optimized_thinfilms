@@ -115,3 +115,6 @@ print struct.T[::30]
 print struct.R[::30]
 # Code for plotting goes here...
 ```
+### Optimization 
+
+To obtain optimized multilayer structures with high transmittance of visible light and high reflectance of infrared, the combination of Genetic Algorithm and Hill climbing Algorithm are used.
