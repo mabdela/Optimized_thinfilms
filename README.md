@@ -1,5 +1,5 @@
 # opt_sim 
-This optimization algorithm is used to tune parameters of multi-layer optical thin-films to produce desired characterisitics, i.e. transmittance and reflectance of multi-layer optical thin-films for a given application. For example, optical thin-films can be coated on a glass window to maximize transmittance of visible light and relectance of infrared radiation. This application is relevant for producing energy effcient buildings with glass windows. 
+This application is used to tune parameters of multi-layer optical thin-films to produce desired characterisitics, i.e. transmittance and reflectance of multi-layer optical thin-films for a given application. For example, optical thin-films can be coated on a glass window to maximize transmittance of visible light and relectance of infrared radiation. This application is relevant for producing energy effcient buildings with glass windows. 
 
 Transfer matrix simulation of 1D optical multilayers.
 
